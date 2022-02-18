@@ -5,6 +5,5 @@
 - The welcome message is ready.
 - Restart your PC and ENJOY!
 
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- Place this tag where you want the button to render. -->
+<github-button href="https://github.com/AkashAchuzzz" data-size="large" aria-label="Follow @AkashAchuzzz on GitHub">Follow @AkashAchuzzz</github-button>
