@@ -4,8 +4,8 @@ Let's Make your Windows PC speak welcome message on login, every time you will l
 You can use this trick to impress your friends. Enjoy your speaking computer just like Jarvis! Hope you liked this trick. Write in comments if you have any problems.
 
 - Open  `Scripts`
-- Open whi
-- Copy any text and paste it in notepad.
+- Open, which script you want.
+- Copy script and paste it in notepad.
 - You Can Change `“Good Morning Sir, Welcome Back To Your Computer.”` with your choice Text.
 - Then save as `welcome.vbs`
 - Then copy that file.
