@@ -6,4 +6,4 @@
 - Restart your PC and ENJOY!
 
 
-You can add your text in `Sapi.speak "Good Morning Sir, Welcome Back To Your Computer."`
+You can add your own text `Sapi.speak <b>"YOUR TEXT HERE"`
