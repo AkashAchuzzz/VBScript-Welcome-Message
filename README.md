@@ -6,4 +6,4 @@
 - Restart your PC and ENJOY!
 
 <!-- Place this tag where you want the button to render. -->
-<GitHubButton href="https://github.com/AkashAchuzzz" data-size="large" aria-label="Follow @AkashAchuzzz on GitHub">Follow @AkashAchuzzz</GitHubButton>
+<a class="github-button" href="https://github.com/AkashAchuzzz" data-size="large" aria-label="Follow @AkashAchuzzz on GitHub">Follow @AkashAchuzzz</a>
