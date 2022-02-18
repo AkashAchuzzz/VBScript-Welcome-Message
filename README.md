@@ -1,0 +1,1 @@
+# VBScript-Welcome-Message
