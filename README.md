@@ -5,11 +5,5 @@
 - The welcome message is ready.
 - Restart your PC and ENJOY!
 
-import GithubButton from 'vue-github-button'
-
-export default {
-  components: {
-    GithubButton
-  },
-  // ...
-}
+<!-- Place this tag where you want the button to render. -->
+<GitHubButton href="https://github.com/AkashAchuzzz" data-size="large" aria-label="Follow @AkashAchuzzz on GitHub">Follow @AkashAchuzzz</GitHubButton>
