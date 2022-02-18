@@ -6,4 +6,4 @@
 - Restart your PC and ENJOY!
 
 
-<a class="github-button" href="https://github.com/AkashAchuzzz" data-size="large" aria-label="Follow @AkashAchuzzz on GitHub">Follow @AkashAchuzzz</a>
+You can add your text in `Sapi.speak "Good Morning Sir, Welcome Back To Your Computer."`
