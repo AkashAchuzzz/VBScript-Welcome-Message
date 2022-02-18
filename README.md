@@ -5,5 +5,5 @@
 - The welcome message is ready.
 - Restart your PC and ENJOY!
 
-<!-- Place this tag where you want the button to render. -->
+
 <a class="github-button" href="https://github.com/AkashAchuzzz" data-size="large" aria-label="Follow @AkashAchuzzz on GitHub">Follow @AkashAchuzzz</a>
